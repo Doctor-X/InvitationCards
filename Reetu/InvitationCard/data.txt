@@ -1,0 +1,26 @@
+﻿&h1=Invitation&
+
+&menulabel1=Invitation&
+&menulabel2=Contact&
+
+&image1=images/invitation.jpg&
+&image2=images/contact.jpg&
+
+&content1=<p class="h">Invitation Card</p>
+<p> It is here by declared that all of you are invited to be a part of ospicious ceremony of marriage of Reetu Choudhary D/o Jogender Singh and Vipin Kumar S/o Mrs and Mr Singh.
+Reetu Choudhary Belongs to Aligarh District of U.P. State of India. He is younger Daughter of the Family.
+Vipin Kumar belongs to the Foonder village of Mathura District of U.P. State of India. he is the Elder Son in the family.
+</p>&
+
+&content2=<p class="h">Contact Us</p>
+<p>Venue
+Green Mangoes (Choupal), Choudhary Jogender Singh, Village : Sirkoria (Near Nagala Birkhu), District : Aligarh, Aligarh, Uttar Pradesh
+Mobile No
+09716529357 (Dinesh Kumar), 09278100162 (Durvesh Kumar), 09761716960 (Ravinder Singh), 09582481800 (Jogender Singh)
+</p>&
+
+&footer=<p class="footer">Copyright; <a href="#"></a> All rights reserved</p>&
+&done=1&
+
+
+
